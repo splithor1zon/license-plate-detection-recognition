@@ -1,5 +1,9 @@
 # Vehicle License Plate Recognition Using Convolutional Neural Network
 
+- [Jupyter Notebook](./code/Final.ipynb)
+- [Report](./report/report.pdf)
+- [Presentation with notes](./presentation/presentation.pdf)
+
 ## About The Project
 
 This work illustrates a design and development of an efficient Automatic number plate recognition system (ANPR), using image processing and deep learning techniques. The work focuses on the deep learning SSD MobNet model, which will be used to detect the number plate of the vehicle. We utilized two different sequential convolutional neural networks that are smart enough to recognize plates characters. Moreover, it is shown that with variations of pretrained architectures, one can obtain the desired trade-off between complexity and accuracy, and SSD MobeNet v2 and a simple CNN model can obtain the desired results with satisfying cost and accuracy.

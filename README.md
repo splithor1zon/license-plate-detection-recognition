@@ -1,3 +1,5 @@
+*Accepting suggestions, just create a new issue.* 🤝
+
 # Vehicle License Plate Recognition Using Convolutional Neural Network
 
 - [Jupyter Notebook](./code/Final.ipynb)
